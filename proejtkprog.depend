@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1559247030 source:d:\c nauka\proejtkprog\main.c
+	"album.h"
+	"artysta.h"
+	"gatunek.h"
+	"sortowanie.h"
+	"wyswietl.h"
+	"wyszukiwanie.h"
+
+1559162438 source:d:\c nauka\proejtkprog\gatunek.c
+	"gatunek.h"
+	"album.h"
+
+1559166021 d:\c nauka\proejtkprog\gatunek.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1559167982 d:\c nauka\proejtkprog\artysta.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1559162439 source:d:\c nauka\proejtkprog\artysta.c
+	"artysta.h"
+
+1559131923 d:\c nauka\proejtkprog\sortowanie.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"album.h"
+
+1558875256 d:\c nauka\proejtkprog\wyswietl.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"album.h"
+	"artysta.h"
+	"gatunek.h"
+
+1559156268 d:\c nauka\proejtkprog\wyszukiwanie.h
+	<stdbool.h>
+	"album.h"
+
+1559168263 d:\c nauka\proejtkprog\album.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"gatunek.h"
+	"artysta.h"
+
+1558873229 d:\c nauka\proejtkprog\wyszukiwanie.c
+	"wyszukiwanie.h"
+	"album.h"
+
+1559165637 source:d:\c nauka\proejtkprog\sortowanie.c
+	"sortowanie.h"
+	"album.h"
+
+1559162772 source:d:\c nauka\proejtkprog\wyswietl.c
+	"wyswietl.h"
+
+1559165636 source:d:\c nauka\proejtkprog\wyszukiwanie.c
+	"wyszukiwanie.h"
+	"album.h"
+
